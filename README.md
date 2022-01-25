@@ -29,34 +29,3 @@ https://tpverstak.ru/common-css-class-names/
 !!!!!  Знакомство с тегами. Синтаксис, назначение.
 Ссылка на справочник тегов
 https://webref.ru/html
-
-Список тегов:
-      <aside></aside>
-      <article></article>
-      <audio src=""></audio>
-      <body></body>
-      <button></button>
-      <footer></footer>
-      <form action=""></form>
-      <h1></h1>
-      <head></head>
-      <header></header>
-      <html></html>
-      <img src="" alt="">
-      <input type="text">
-      <label for=""></label>
-      <li></li>
-      <link rel="stylesheet" href="">
-      <main></main>
-      <menu></menu>
-      <meta>
-      <nav></nav>
-      <p></p>
-      <script></script>
-      <select name="" id=""></select>
-      <section></section>
-      <span></span>
-      <textarea name="" id="" cols="30" rows="10"></textarea>
-      <title></title>
-      <ul></ul>
-      <video src=""></video>
